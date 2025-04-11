@@ -1,16 +1,14 @@
 import React from 'react';
 import {
-  FaBehance,
-  FaFacebook,
   FaLinkedin,
-  FaTwitter,
-  FaSketch,
+  FaXTwitter,
+  FaPizzaSlice,
   FaHome,
   FaUserFriends,
   FaFolderOpen,
   FaCalendarAlt,
   FaWpforms,
-} from 'react-icons/fa6';
+} from "react-icons/fa6"
 export const links = [
   {
     id: 1,
