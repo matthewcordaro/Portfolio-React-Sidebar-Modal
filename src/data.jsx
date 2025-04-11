@@ -3,12 +3,14 @@ import {
   FaLinkedin,
   FaXTwitter,
   FaPizzaSlice,
-  FaHome,
-  FaUserFriends,
   FaFolderOpen,
-  FaCalendarAlt,
   FaWpforms,
 } from "react-icons/fa6"
+import {
+  FaUserFriends,
+  FaHome,
+  FaCalendarAlt,
+} from "react-icons/fa"
 export const links = [
   {
     id: 1,
